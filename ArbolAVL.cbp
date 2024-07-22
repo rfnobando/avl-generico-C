@@ -34,6 +34,14 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="nodo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nodo.h" />
+		<Unit filename="primitivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="primitivos.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
