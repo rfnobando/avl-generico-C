@@ -1,11 +1,10 @@
 # Implementación de Árbol AVL
 
 ## Introducción
-Este proyecto es una implementación de un árbol AVL (Adelson-Velsky y Landis), un tipo de árbol binario de búsqueda auto-balanceado. En un árbol AVL, la diferencia de altura entre los subárboles izquierdo y derecho de cualquier nodo, conocido como el factor de balanceo, solo puede ser -1, 0 o 1, lo que asegura una complejidad de tiempo logarítmica para las operaciones de inserción, eliminación y búsqueda.
+Este proyecto es una implementación de un árbol AVL (Adelson-Velsky y Landis), un tipo de árbol binario de búsqueda auto-balanceado. En un árbol AVL, la diferencia de altura entre los subárboles izquierdo y derecho de cualquier nodo, conocido como el factor de balanceo, solo puede ser -1, 0 o 1, lo que asegura una complejidad de tiempo logarítmica para las operaciones de inserción y búsqueda.
 
 ## Características
 - Inserción
-- Eliminación
 - Búsqueda
 - Balanceo automático
 
