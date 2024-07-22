@@ -9,6 +9,12 @@ Este proyecto es una implementación de un árbol AVL (Adelson-Velsky y Landis),
 - Búsqueda
 - Balanceo automático
 
+## Imágenes
+A continuación se muestran los dos árboles AVL que se encuentran en el archivo `main.c` a modo de ejemplo:
+
+<img src="arbol-int.png" alt="Árbol de números enteros" width="100%"/>
+<img src="arbol-string.png" alt="Árbol de cadenas" width="100%"/>
+
 ## Nota
 En la siguiente sección, encontrarás las instrucciones para usar el árbol AVL con el IDE Code::Blocks. También es posible compilar y ejecutar el proyecto con otros compiladores, si prefieres no usar Code::Blocks.
 
