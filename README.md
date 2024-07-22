@@ -7,6 +7,7 @@ Este proyecto es una implementación de un árbol AVL (Adelson-Velsky y Landis),
 - Inserción
 - Búsqueda
 - Balanceo automático
+- Liberación de memoria recursiva
 
 ## Imágenes
 A continuación se muestran los dos árboles AVL que se encuentran en el archivo `main.c` a modo de ejemplo:
