@@ -196,4 +196,27 @@ int busquedaBinaria(NodoPtr nodo, void *dato, int (*comparar)(void *, void *)) {
 }
 
 
+/// Getters y Setters
+void *getDato(NodoPtr nodo) {
+    return nodo->dato;
+}
 
+NodoPtr getIzquierdo(NodoPtr nodo) {
+    return nodo->izquierdo;
+}
+
+NodoPtr getDerecho(NodoPtr nodo) {
+    return nodo->derecho;
+}
+
+void setDato(NodoPtr nodo, void *dato) {
+    nodo->dato = dato;
+}
+
+void setIzquierdo(NodoPtr nodo, NodoPtr izquierdo) {
+    nodo->izquierdo = izquierdo;
+}
+
+void setDerecho(NodoPtr nodo, NodoPtr derecho) {
+    nodo->derecho = derecho;
+}
